@@ -1,0 +1,9 @@
+**/build/**
+*.kdev4
+
+!**/build/
+!**/build/.gitkeep
+
+!**/build/*.txt
+!**/build/*.in
+!**/build/*.out
