@@ -1,0 +1,4 @@
+Ivanov    2009 1
+Petrov    2008 2
+Sydorov   2009 1
+Kozlov    2010 3

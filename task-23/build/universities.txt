@@ -1,0 +1,3 @@
+Harvard 31000 11
+Stanford 17000 7
+Oxford 26000 4
